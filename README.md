@@ -91,21 +91,17 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1mrvAcv8Ih-qre9SoEvF_mfJNvQwdO71P" alt="c" width="40" height="40" style="margin-right: 10px;"> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1zRHAho9mfviTkcMZCPPDbI2RInrU8lC_" alt="python" width="40" height="40" style="margin-right: 10px;"> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1VjVeBwXXevbgUfFJuMWNO4Ctgs7FUsC7" alt="django" width="40" height="40" style="margin-right: 10px;"> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1Gp0mNOFQ8KUobw4xRNS0It5Eln6FevlJ" alt="spring" width="40" height="40" style="margin-right: 10px;"> </a> </p><br/>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1EEKmE2XXZXWLEoA8FXdFtxRxo0iGJEgY" alt="html5" width="50" height="50" style="margin-right: 10px;"> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1pqiwH3HS8438kLkIDwfgWgaZ4Fqx7xO9" alt="css3" width="50" height="50" style="margin-right: 10px;"> </a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1NE-NIPjX8k3HmuMZl2_NkMgDhi2ntP_e" alt="angular" width="50" height="50" style="margin-right: 10px;"> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1Gp0mNOFQ8KUobw4xRNS0It5Eln6FevlJ" alt="spring" width="40" height="40" style="margin-right: 10px;"> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1LOspQ2yRVdKBMODKt9VqQ554H_eRwkSp" alt="html5" width="50" height="50" style="margin-right: 10px;"> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1qkiCWHbdfO8A4fxFUPUysDI1x0YYHxoj" alt="css3" width="50" height="50" style="margin-right: 10px;"> </a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1XgRfnL-dTBX-UdIKmhTCrGGyV8yQeQjo" alt="angular" width="50" height="50" style="margin-right: 10px;"> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1xo8up9XiY0SNqNPeZlKm7HgOzMR-Sq1f" alt="mysql" width="60" height="60" style="margin-right: 10px;"> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1e5qwdoSbuJjEPmzJN5v5WoaaEzWdDnKB" alt="git" width="60" height="60" style="margin-right: 10px;"> </a>
-</p><br/>
-<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1sWhZP9NusCJaBfSSvdsCcjUBINmxKFq1" alt="git" width="50" height="50" style="margin-right: 10px;"> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=17yOzr9DDcG8K_QupEtejJYTEqo0abkpU" alt="aws" width="40" height="40" style="margin-right: 30px;"> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1MTvRMkOV4kxERM7-G-WtBepCl6ai7XWh" alt="pandas" width="50" height="40" style="margin-right: 10px;"> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1M4-tAOBJ53DgJvLnl0a2N6ep4un6FaRj" alt="android" width="50" height="50" style="margin-right: 10px;"> </a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1gUQ7QfCIWhkBUrRpxI8VYBN4i6ugML4Y" alt="android" width="70" height="70" style="margin-right: 10px;"> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1_g9zdMb7yHbEn15RdQwe-cb7edwha2mx" alt="blender" width="50" height="50" style="margin-right: 10px;"> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1uGUMRz7mrRmEkI6uYSTeCtFOmmikbxxe" alt="linux" width="50" height="50" style="margin-right: 10px;"> </a>
-</p><br/>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1jn841UMmfPZmwX9jvYtyiVA6sJ6oyxpm" alt="postman" width="70" height="70" style="margin-right: 10px;"> </a>
 
 <h1 align="left">📊 GitHub Stats:</h1>
