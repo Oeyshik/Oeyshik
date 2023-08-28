@@ -31,8 +31,12 @@
 
 <h1 align="left">📊 GitHub Stats:</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oeyshik&show_icons=true&locale=en&theme=merko" alt="oeyshik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oeyshik&show_icons=true&locale=en&theme=merko#gh-dark-mode-only" alt="oeyshik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oeyshik&show_icons=true&locale=en&theme=vue#gh-light-mode-only" alt="oeyshik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oeyshik&theme=merko" alt="oeyshik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oeyshik&theme=merko#gh-dark-mode-only" alt="oeyshik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oeyshik&theme=merko#gh-light-mode-only" alt="oeyshik" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oeyshik&show_icons=true&locale=en&layout=compact&theme=merko" alt="oeyshik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oeyshik&show_icons=true&locale=en&layout=compact&theme=merko#gh-dark-mode-only" alt="oeyshik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oeyshik&theme=merko#gh-light-mode-only" alt="oeyshik" /></p>
+
