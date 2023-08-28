@@ -1,9 +1,9 @@
-![MasterHead](https://drive.google.com/uc?id=1qz-xUqnic0LMCI9bNygdvzMw-Pa7_9Ix)
+<img src="https://drive.google.com/uc?id=1qz-xUqnic0LMCI9bNygdvzMw-Pa7_9Ix" alt="MasterHead" width="1200">
 <h1 align="center">Hi 👋, I'm Oeyshik Das</h1>
 <p align="center">
-  <img alt="Coding" width="150" src="https://drive.google.com/uc?id=1xLZvqI68fnLsgM9bskUOgLjQcYKnucU-"><!--1n0AHS7_T37Jl1SxnNk2k1zjWnL8FHDJO-->
+  <img alt="Coding" width="120" src="https://drive.google.com/uc?id=1xLZvqI68fnLsgM9bskUOgLjQcYKnucU-"><!--1n0AHS7_T37Jl1SxnNk2k1zjWnL8FHDJO-->
 </p>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width = "400" src="https://drive.google.com/uc?id=1IIM-w7r5bEZhLnbz-xKDEv2-_YXI5PUe"><!--1fpZ-Gsp2LQ-5dQK0NyyZodNXt1vFI-sV--><!--1DlivT1HVqZbUD_AaeahxcF_u4ID45oem--><!--1ARGq0mGiorJjN9AsOCO3XtR9oBwQ89uy-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oeyshik&label=Profile%20views&color=0e75b6&style=flat" alt="oeyshik" /> </p>
 
