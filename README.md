@@ -19,10 +19,10 @@
 
 <br/><h1 align="left">🤝 Connect with me:</h1>
 <p align="left">
-<a href="https://linkedin.com/in/oeyshik-das-670156229" target="blank"> <img align="center" src="https://drive.google.com/uc?id=1TlbLUPaB3h1SFkArfu-4f3fSmkC9Uk-C" alt="oeyshik-das-670156229" height="30" width="40" /></a>
-<a href="https://instagram.com/oeyshikdas" target="blank"><img align="center" src="https://drive.google.com/uc?id=1cUiFKqBdLqSJtHnDNFWEITsdCtepUedd" alt="oeyshikdas" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/oeyshik_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oeyshik_das" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/oeyshikddwd2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="oeyshikddwd2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oeyshik-das-670156229" target="blank"> <img align="center" src="https://drive.google.com/uc?id=1TlbLUPaB3h1SFkArfu-4f3fSmkC9Uk-C" alt="oeyshik-das-670156229"  height="100" width="100" ></a>
+<a href="https://instagram.com/oeyshikdas" target="blank"><img align="center" src="https://drive.google.com/uc?id=1cUiFKqBdLqSJtHnDNFWEITsdCtepUedd" alt="oeyshikdas" height="100" width="100"></a>
+<a href="https://www.leetcode.com/oeyshik_das" target="blank"><img align="center" src="https://drive.google.com/uc?id=1wr_cVc-0akT5sHOwep4hCaI9Y3dO19KZ" alt="oeyshik_das" height="100" width="150"></a>
+<a href="https://auth.geeksforgeeks.org/user/oeyshikddwd2" target="blank"><img align="center" src="https://drive.google.com/uc?id=1HlPMyYq8WxB3-JGvTVBFsOUYw-2UA0rG" alt="oeyshikddwd2" height="100" width="150"></a>
 </p><br/>
 
 <h1 align="left">💻 Languages and Tools:</h1>
