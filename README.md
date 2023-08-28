@@ -8,7 +8,7 @@
 <h1 align="left">👨‍🎓 About me:</h1>
 <img align="right" alt="Coding" width = "450" src="https://drive.google.com/uc?id=1DlivT1HVqZbUD_AaeahxcF_u4ID45oem"><!--1fpZ-Gsp2LQ-5dQK0NyyZodNXt1vFI-sV--><!--1DlivT1HVqZbUD_AaeahxcF_u4ID45oem--><!--1ARGq0mGiorJjN9AsOCO3XtR9oBwQ89uy--><!--1IIM-w7r5bEZhLnbz-xKDEv2-_YXI5PUe--><!--1-7mQJF1ywgDGIiUwD0STOXs-f86gT4jS-->
 
-<br/><br/>- 🔭 I’m currently working on **Quizzdom: Exam Portal using SpringBoot**
+- 🔭 I’m currently working on **Quizzdom: Exam Portal using SpringBoot**
 
 - 🌱 I’m currently learning **Angular, SpringBoot**
 
