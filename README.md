@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?id=1qz-xUqnic0LMCI9bNygdvzMw-Pa7_9Ix" alt="MasterHead" width="1200">
+<img src="https://drive.google.com/uc?id=1qz-xUqnic0LMCI9bNygdvzMw-Pa7_9Ix" alt="MasterHead" width="1000" height="500">
 <h1 align="center">Hi 👋, I'm Oeyshik Das</h1>
 <p align="center">
   <img alt="Coding" width="120" src="https://drive.google.com/uc?id=1xLZvqI68fnLsgM9bskUOgLjQcYKnucU-"><!--1n0AHS7_T37Jl1SxnNk2k1zjWnL8FHDJO-->
