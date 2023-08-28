@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oeyshik&label=Profile%20views&color=0e75b6&style=flat" alt="oeyshik" /> </p>
 
 <h1 align="left">👨‍🎓 About me:</h1>
-<img align="right" alt="Coding" width = "450" src="https://drive.google.com/uc?id=1DlivT1HVqZbUD_AaeahxcF_u4ID45oem"><!--1fpZ-Gsp2LQ-5dQK0NyyZodNXt1vFI-sV--><!--1DlivT1HVqZbUD_AaeahxcF_u4ID45oem--><!--1ARGq0mGiorJjN9AsOCO3XtR9oBwQ89uy--><!--1IIM-w7r5bEZhLnbz-xKDEv2-_YXI5PUe--><!--1-7mQJF1ywgDGIiUwD0STOXs-f86gT4jS-->
 
 - 🔭 I’m currently working on **Quizzdom: Exam Portal using SpringBoot**
 
@@ -33,11 +32,11 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=oeyshik&show_icons=true&locale=en&theme=merko"
+    srcset="https://github-readme-stats.vercel.app/api?username=oeyshik&show_icons=true&rank_icon=github&locale=en&theme=merko"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=oeyshik&show_icons=true&locale=en&theme=transparent"
+    srcset="https://github-readme-stats.vercel.app/api?username=oeyshik&show_icons=true&rank_icon=github&locale=en&theme=transparent"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
