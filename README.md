@@ -25,65 +25,6 @@
 <a href="https://auth.geeksforgeeks.org/user/oeyshikddwd2" target="blank"><img align="center" src="https://drive.google.com/uc?id=1ZKUT2VpMgnAV-jWO6ialwJsvUN86bwYE" alt="oeyshikddwd2" height="30" width="60"></a>
 </p><br/>
 
-<!--<h1 align="left">💻 Languages and Tools:</h1>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/uc?id=16rm3kjFUTesvKAKzZjfs8I-5xegGyML3" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/uc?id=1mrvAcv8Ih-qre9SoEvF_mfJNvQwdO71P" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/uc?id=1zRHAho9mfviTkcMZCPPDbI2RInrU8lC_" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/uc?id=1VjVeBwXXevbgUfFJuMWNO4Ctgs7FUsC7" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/uc?id=1Gp0mNOFQ8KUobw4xRNS0It5Eln6FevlJ" alt="spring" width="40" height="40"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/uc?id=1EEKmE2XXZXWLEoA8FXdFtxRxo0iGJEgY" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/uc?id=1pqiwH3HS8438kLkIDwfgWgaZ4Fqx7xO9" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/uc?id=1NE-NIPjX8k3HmuMZl2_NkMgDhi2ntP_e" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/uc?id=10yS8Zo0lFlA6n1Ed4_oN1HLoMuC8w1YC" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/uc?id=1e5qwdoSbuJjEPmzJN5v5WoaaEzWdDnKB" alt="git" width="40" height="40"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/uc?id=17yOzr9DDcG8K_QupEtejJYTEqo0abkpU" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/uc?id=10Lt9PYM8JlGRfugLmrkbpJV-i6kb1aBw" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/uc?id=1M4-tAOBJ53DgJvLnl0a2N6ep4un6FaRj" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/uc?id=1_g9zdMb7yHbEn15RdQwe-cb7edwha2mx" alt="blender" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/uc?id=1uGUMRz7mrRmEkI6uYSTeCtFOmmikbxxe" alt="linux" width="40" height="40"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/uc?id=1jn841UMmfPZmwX9jvYtyiVA6sJ6oyxpm" alt="postman" width="40" height="40"/>
-  </a>
-</p>-->
-
-
 
 <h1 align="left">💻 Languages and Tools:</h1>
 <p align="left">
@@ -104,7 +45,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1uGUMRz7mrRmEkI6uYSTeCtFOmmikbxxe" alt="linux" width="50" height="50" style="margin-right: 10px;"> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=1jn841UMmfPZmwX9jvYtyiVA6sJ6oyxpm" alt="postman" width="70" height="70" style="margin-right: 10px;"> </a>
 
-<h1 align="left">📊 GitHub Stats:</h1>
+<br/><h1 align="left">📊 GitHub Stats:</h1>
 
 <picture>
   <source
