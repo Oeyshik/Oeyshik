@@ -31,12 +31,39 @@
 
 <h1 align="left">📊 GitHub Stats:</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oeyshik&show_icons=true&locale=en&theme=merko#gh-dark-mode-only" alt="oeyshik" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oeyshik&show_icons=true&locale=en&theme=vue#gh-light-mode-only" alt="oeyshik" /></p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=oeyshik&show_icons=true&locale=en&theme=merko"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=oeyshik&show_icons=true&locale=en&theme=transparent"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oeyshik&theme=merko#gh-dark-mode-only" alt="oeyshik" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oeyshik&theme=merko#gh-light-mode-only" alt="oeyshik" /></p>
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=oeyshik&theme=merko"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=oeyshik&theme=transparent"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oeyshik&show_icons=true&locale=en&layout=compact&theme=merko#gh-dark-mode-only" alt="oeyshik" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oeyshik&theme=merko#gh-light-mode-only" alt="oeyshik" /></p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=oeyshik&show_icons=true&locale=en&layout=compact&theme=merko"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=oeyshik&show_icons=true&locale=en&layout=compact&theme=transparent"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
