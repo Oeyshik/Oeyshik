@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact: **I'm on a mission to turn caffeine into code! ☕**
 
+[![An image of @oeyshik's Holopin badges, which is a link to view the full Holopin profile](https://holopin.me/oeyshik)](https://holopin.io/@oeyshik)
+
 <br/><h1 align="left">🤝 Connect with me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/oeyshik-das-670156229" target="blank"> <img align="center" src="https://drive.google.com/uc?id=1TlbLUPaB3h1SFkArfu-4f3fSmkC9Uk-C" alt="oeyshik-das-670156229"  height="60" width="60" ></a>
