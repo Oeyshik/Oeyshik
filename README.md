@@ -13,7 +13,7 @@
 
 - 📫 Mail: **oeyshikdas1853@gmail.com**
 
-- 📄 Know about my experiences: [My RESUME](https://drive.google.com/file/d/1TfLaWq6lJ391eVkooKxGVAdlp8I1puJh/view?usp=sharing)
+- 📄 Know about my experiences: [My RESUME](https://drive.google.com/file/d/1b2Dfr2nzJMl94al6XnoeC2ihb1GxM55u/view?usp=sharing)
 
 - 🚀 Portfolio: [Oeyshik-Portfolio](https://portfolio-henna-six-63.vercel.app/) 
 
