@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Oeyshik Das</h1>
 <h3 align="center"> <img alt="Coding" width="120" src="https://drive.google.com/uc?id=1aN2nx1hg0NpS8ydB8skpXuoEssffPOdQ" style="margin-left: 0px;"></h3>
 <!---1xLZvqI68fnLsgM9bskUOgLjQcYKnucU-><!--1n0AHS7_T37Jl1SxnNk2k1zjWnL8FHDJO-->
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oeyshik&label=Profile%20views&color=0e75b6&style=flat" alt="oeyshik" /> </p>
 
 <h1 align="left">👨‍🎓 About me:</h1>
@@ -13,7 +13,7 @@
 
 - 📫 Mail: **oeyshikdas1853@gmail.com**
 
-- 📄 Know about my experiences: [My RESUME](https://drive.google.com/file/d/1b2Dfr2nzJMl94al6XnoeC2ihb1GxM55u/view?usp=sharing)
+- 📄 Know about my experiences: [My RESUME](https://drive.google.com/file/d/1VpmYNvTlzXTtygXGmRvGLmHu5uLjs96I/view?usp=sharing)
 
 - 🚀 Portfolio: [Oeyshik-Portfolio](https://portfolio-henna-six-63.vercel.app/) 
 
